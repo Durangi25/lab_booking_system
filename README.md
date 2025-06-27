@@ -23,7 +23,7 @@ The **Lab Booking System** is built to streamline the process of booking labs by
 - Role-based login system: Instructor, Lecturer, Student, Technical Officer
 - Instructors can submit lab booking requests
 - Lecturers can approve or reject booking requests
-- Students can view lab schedules and lab equipment
+- Students can view their lab schedule and what are the equipment they want for the lab.
 - Technical Officers can update equipment and view lab usage logs
 - Automated logging of past lab sessions using scheduled database event
 
