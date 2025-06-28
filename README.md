@@ -63,4 +63,4 @@ The main tables in the system are:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/https://github.com/Durangi25/lab-booking-system.git
+https://github.com/Durangi25/lab_booking_system.git
