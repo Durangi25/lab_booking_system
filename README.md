@@ -54,7 +54,7 @@ The main tables in the system are:
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, Bootstrap
+- **Frontend**: HTML, CSS
 - **Backend**: PHP (8.2.12)
 - **Database**: MySQL (MariaDB 10.4.32)
 - **Development Tool**: XAMPP (with phpMyAdmin 5.2.1)
@@ -62,5 +62,4 @@ The main tables in the system are:
 ## How to Run
 
 1. **Clone the repository:**
-   ```bash
 https://github.com/Durangi25/lab_booking_system.git
